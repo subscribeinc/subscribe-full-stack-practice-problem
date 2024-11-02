@@ -28,3 +28,8 @@ This is intentionally open-ended. You should spend ~2 hrs on this.
 1. Deploy the application stack
 1. Implement a custom plugin in Strapi
 1. Write basic tests
+1. Git commit frequently
+
+## Submission
+
+Fork this repo and provide the link to the public, forked repo.
